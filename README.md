@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=160&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Rock+Salt&color=FFB000&size=38&center=true&vCenter=true&width=1000&height=90&lines=GUILHERME" alt="Guilherme"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Rock+Salt&color=FFB000&size=38&center=true&vCenter=true&width=1000&height=90&lines=Hello,+i%27m+Gui+Barbosa" alt="Hello, i'm Gui Barbosa"/>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Rock+Salt&color=DC143C&size=25&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+GitHub!" alt="Welcome to my GitHub!"/>
 
@@ -51,8 +51,4 @@ Interessado em Frontend e Backend
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Rock+Salt&color=FFB000&size=25&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+GitHub!" alt="Welcome to my GitHub!"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=160&section=footer"/>
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Rock+Salt&color=FFB000&size=25&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+Git
