@@ -15,7 +15,9 @@
 ## About Me
 
 Técnico em Desenvolvimento de Sistemas
+
 Estudante de programação e desenvolvimento de software
+
 Interessado em Frontend e Backend
 
 </div>
