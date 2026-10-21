@@ -14,11 +14,11 @@
 
 ## About Me
 
-Técnico em Desenvolvimento de Sistemas
+- Técnico em Desenvolvimento de Sistemas
 
-Estudante de programação e desenvolvimento de software
+- Estudante de programação e desenvolvimento de software
 
-Interessado em Frontend e Backend
+- Interessado em Frontend e Backend
 
 </div>
 
