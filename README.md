@@ -15,9 +15,7 @@
 ## About Me
 
 Técnico em Desenvolvimento de Sistemas
-
 Estudante de programação e desenvolvimento de software
-
 Interessado em Frontend e Backend
 
 </div>
@@ -54,10 +52,8 @@ Interessado em Frontend e Backend
 </div>
 
 - Java & POO
-- Spring Boot
 - Desenvolvimento Web
 - Banco de Dados / MySQL
-- Desenvolvimento Android
 - Git & GitHub
 
 ---
