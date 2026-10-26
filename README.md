@@ -12,7 +12,7 @@
 
 <div align="left">
 
-## About Me
+## Sobre mim:
 
 - Técnico em Desenvolvimento de Sistemas
 
@@ -26,7 +26,7 @@
 
 <div align="left">
 
-## My Stacks
+## Linguagens conhecidas:
 
 </div>
 
@@ -49,7 +49,7 @@
 
 <div align="left">
 
-## Currently Learning
+## Aprendendo atualmente:
 
 </div>
 
